@@ -7,7 +7,8 @@ How do healthcare access, environmental conditions, and disease burden influence
 
 
 ### 1. Global Health Disparities
-<img width="2062" height="1153" alt="KPI Global Health Disparities" src="https://github.com/user-attachments/assets/996c42be-8c85-4126-8075-7ce2d73c6d75" />
+<img width="2062" height="1153" alt="KPI Global Health Disparities" src="https://github.com/user-attachments/assets/53302526-d6e5-489d-86b6-f1d30e442403" />
+
 
 ### Questions & Insights
 
@@ -32,7 +33,8 @@ How do healthcare access, environmental conditions, and disease burden influence
 
 
 ### 2. Clinical Workforce & Mortality
-<img width="2063" height="1160" alt="Clinical Workforce   Mortality" src="https://github.com/user-attachments/assets/b2c0acb9-ee96-454c-a65e-333f5c834d22" />
+<img width="2063" height="1160" alt="Clinical Workforce   Mortality" src="https://github.com/user-attachments/assets/3b2fef61-83ef-4f4d-8035-ad7765f9119d" />
+
 
 ### Questions & Insights
 
@@ -47,7 +49,8 @@ How do healthcare access, environmental conditions, and disease burden influence
 **Insights**: Roughly 40–60 nurses/midwives per 10,000, mortality drops below 50 and stays low, a plausible "diminishing returns" threshold.
 
 ### 3. Reproductive Care & Risk Factors
-<img width="2063" height="1158" alt="Reproductive Care   Risk Factors" src="https://github.com/user-attachments/assets/eed3e0f8-8f1f-4615-8f94-cfc7c9bb49ac" />
+<img width="2063" height="1158" alt="Reproductive Care   Risk Factors" src="https://github.com/user-attachments/assets/6fe89ac4-79d8-4d75-b80e-c2732aa95df2" />
+
 
 ### Questions & Insights
 
@@ -63,7 +66,8 @@ How do healthcare access, environmental conditions, and disease burden influence
 
 
 ### 4. Environmental Determinants & Disease Burden
-<img width="2055" height="1150" alt="Environmental Determinants   Disease Burden" src="https://github.com/user-attachments/assets/ec25e552-4207-4444-ba71-d901819273e7" />
+<img width="2055" height="1150" alt="Environmental Determinants   Disease Burden" src="https://github.com/user-attachments/assets/862a4c5b-9e6a-46b0-b082-66210c742d5c" />
+
 
 ### Questions & Insights
 
@@ -81,7 +85,8 @@ How do healthcare access, environmental conditions, and disease burden influence
 **Insights**: Inversely, yes  but with real scatter (some regions have moderate pollution and still high life expectancy), suggesting confounding by income/healthcare access.
 
 ### 5. Disease Burden & Health Risk Factors
-<img width="2065" height="1160" alt="Disease Burden   Health Risk Factors" src="https://github.com/user-attachments/assets/28630eb9-4226-432a-805f-31cb1076220b" />
+<img width="2065" height="1160" alt="Disease Burden   Health Risk Factors" src="https://github.com/user-attachments/assets/b431dddb-6f24-4470-b956-c357f054e192" />
+
 
 ### Questions & Answers
 
@@ -108,7 +113,8 @@ How do healthcare access, environmental conditions, and disease burden influence
 **Insights**: Partially Oceania/Africa show higher NCD risk despite Africa also carrying the HIV burden, meaning some regions face a double burden rather than a clean trade-off.
 
 ### 6. Health Risk Factors & NCD Outcomes 
-<img width="2065" height="1156" alt="HealthEnviroment Risk Factors   NCD Outcomes" src="https://github.com/user-attachments/assets/b785fbf5-a6d0-455e-afa1-50ffea2f21b5" />
+<img width="2065" height="1156" alt="HealthEnviroment Risk Factors   NCD Outcomes" src="https://github.com/user-attachments/assets/21abe6c9-fc02-45b3-beca-120a9c09a495" />
+
 
 ### Questions & Answers
 
