@@ -5,6 +5,8 @@ An end-to-end analytical study evaluating global health inequalities using World
 ## Core Guiding Question
 How do healthcare access, environmental conditions, and disease burden influence health outcomes and health inequalities across countries and regions over time, specifically, how does life expectancy vary across countries and regions, and what factors are associated with these differences?
 
+## Data Used
+[Dataset](https://www.kaggle.com/datasets/utkarshxy/who-worldhealth-statistics-2020-complete)
 
 ### 1. Global Health Disparities
 <img width="2062" height="1153" alt="KPI Global Health Disparities" src="https://github.com/user-attachments/assets/53302526-d6e5-489d-86b6-f1d30e442403" />
